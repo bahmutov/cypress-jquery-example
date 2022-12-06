@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(function () {
   $('div').warning()
   $('p').warning()
 })
